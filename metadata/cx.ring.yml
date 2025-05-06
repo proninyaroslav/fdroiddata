@@ -10,7 +10,7 @@ Translation: https://www.transifex.com/savoirfairelinux/jami
 AutoName: Jami
 
 RepoType: git
-Repo: https://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@github.com/spbdio/messanger.git
+Repo: https://github.com/proninyaroslav/jami-client-android.git
 
 Builds:
   - versionName: 20250430-01
