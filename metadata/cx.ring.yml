@@ -15,7 +15,7 @@ Repo: https://github.com/proninyaroslav/jami-client-android.git
 Builds:
   - versionName: 20250430-01
     versionCode: 456
-    commit: 6e2283d7f2cac777ba1c968d0c5945c7f4766bce
+    commit: 8cbb89a430360bc01299be20d2bc9f5d7cc2aaa9
     timeout: 10800
     subdir: jami-android/app
     submodules: true
